@@ -1,6 +1,6 @@
-# 🚀 VANTAGE.AI Frontend
+# 🚀 ORVA.AI Frontend
 
-AI-Powered HR Analytics Platform - Modern Next.js Frontend
+AI-Powered HR and People Analytics Platform - Modern Next.js Frontend
 
 ## 📋 Table of Contents
 
@@ -17,7 +17,7 @@ AI-Powered HR Analytics Platform - Modern Next.js Frontend
 
 ## 🎯 Overview
 
-VANTAGE.AI is a comprehensive HR analytics platform that leverages AI to provide:
+ORVA.AI is a comprehensive HR analytics platform that leverages AI to provide:
 
 1. **PA+HR Journal Analysis** - Upload and analyze performance documents
 2. **Sentiment Analysis** - Analyze employee feedback and communications
@@ -354,6 +354,7 @@ If you get stuck:
 
 ---
 
-**Created with ❤️ for VANTAGE.AI**
+**Created with ❤️ by ORVA.AI**
 
 Ready to build amazing HR analytics! 🚀
+First Author: Sovik Guha Biswas
